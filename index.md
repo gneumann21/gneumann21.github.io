@@ -8,4 +8,4 @@ Captain James Hook is a fictional character, the main antagonist of J. M. Barrie
 * fears the crocodile
 * has an iron hook
 
-
+> “Smee, you are a supreme idjit."
